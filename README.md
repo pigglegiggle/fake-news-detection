@@ -1,9 +1,6 @@
 # 🤖 TruthLens - AI-Powered Fake News Detection
 
-[![Next.js](https://img.shields.io/badge/Next.js-15.5.4-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![Google Gemini AI](https://img.shields.io/badge/Google%20Gemini-AI-4285F4?style=for-the-badge&logo=google)](https://ai.google.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![TruthLens](https://img.shields.io/badge/TruthLens-1.0-blue?style=for-the-badge&logo=education)]([https://your-website-or-link.com](https://fake-news-detection-ivory.vercel.app/))
 
 > **Combating misinformation with advanced AI analysis and real-time fact-checking**
 
