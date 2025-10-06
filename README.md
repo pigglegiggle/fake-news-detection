@@ -9,7 +9,7 @@
 
 TruthLens is a sophisticated fake news detection system that leverages Google's Gemini AI to analyze news content, verify claims, and provide comprehensive fact-checking with confidence scoring and source verification.
 
-![TruthLens Demo](https://i.ibb.co/kY1k590/image.png](https://i.ibb.co/j7RBbWG/image.png)
+![TruthLens Demo](https://i.ibb.co/kY1k590/image.png)
 
 [Live Demo](https://fake-news-detection-ivory.vercel.app/)
 
